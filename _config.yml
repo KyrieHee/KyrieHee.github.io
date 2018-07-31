@@ -1,6 +1,6 @@
 # Site settings
-title: HeYun Blog
-SEOTitle: 贺云的博客 | HeYun Blog
+title: HeYun's Blog
+SEOTitle: 贺云的博客 | HeYun's Blog
 header-img: img/post-bg-desk.jpg
 email: heyunfan55@outlook.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/kyriehee/kyriehee.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "What is rational is actual and what is actual is rational."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-HY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
