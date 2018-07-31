@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Fast RCNN paper（论文）"
+title: "Fast-RCNN-paper解析"
+subtitle: Fast-R-CNN-paper解析
 date: 2017-02-01 
-description: "深度学习paper"
-tag: object detection   
-
+author:     HY
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - Deep Learning
+    - Object Detectiom
 ---     
 
 
