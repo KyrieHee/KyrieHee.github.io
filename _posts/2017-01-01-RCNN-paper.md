@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "RCNN paper（论文）"
+title: RCNN-paper解析
+subtitle: R-CNN-paper解析
 date: 2017-01-01 
-description: "深度学习paper"
-tag: object detection   
-
+author:     HY
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - Deep Learning
+    - Object Detectiom
 ---     
 
 
