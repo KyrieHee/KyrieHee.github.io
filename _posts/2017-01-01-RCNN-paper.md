@@ -9,6 +9,8 @@ catalog: true
 tags:
     - Deep Learning
     - Object Detectiom
+    - computer vision
+    
 ---     
 
 
