@@ -3,7 +3,7 @@ layout: post
 title: "Fast-RCNN-paper解析"
 subtitle: Fast-R-CNN-paper解析
 date: 2017-02-01 
-author:    HY
+author:    HeYun
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
