@@ -1,10 +1,10 @@
 # Site settings
-title: HY Blog
-SEOTitle: 贺云的博客 | HY Blog
+title: HeYun Blog
+SEOTitle: 贺云的博客 | HeYun Blog
 header-img: img/post-bg-desk.jpg
 email: heyunfan55@outlook.com
 description: "Every failure is leading towards success."
-keyword: "HY, HY Blog, 贺云的博客, KyrieHee, 贺云, Machine Learning, Deep Learning,Deep Reinforcement Learning"
+keyword: "HY, HeYun Blog, 贺云的博客, KyrieHee, 贺云, Machine Learning, Deep Learning, Deep Reinforcement Learning"
 url: "http://kyriehee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kyriehee/kyriehee.github.io.git" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
+weibo_username:     KyrieHe
 zhihu_username:     kyriehee
 github_username:    kyriehee
 #facebook_username:  baiying.qiu.7
