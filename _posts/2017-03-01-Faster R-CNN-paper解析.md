@@ -12,6 +12,11 @@ tags:
     
 ---
 
+# Faster RCNN 论文
+## 作者：Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
+## paper地址: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497.pdf)
+### 摘要
+
 目前最先进的目标检测网络需要先用区域建议算法推测目标位置，像SPPnet[7]和Fast R-CNN[5]这些网络已经减少了检测网络的运行时间，这时计算区域建议就成了瓶颈
 问题。本文中，我们介绍一种区域建议网络（Region Proposal Network, RPN），它和检测网络共享全图的卷积特征，使得区域建议几乎不花时间。RPN是一个全卷积网
 络，在每个位置同时预测目标边界和objectness得分。RPN是端到端训练的，生成高质量区域建议框，用于Fast R-CNN来检测。通过一种简单的交替运行优化方法，RPN和
