@@ -3,7 +3,7 @@ title: HeYun's Blog
 SEOTitle: HeYun's Blog
 # SEOTitle: 贺云的博客 | HeYun's Blog
 header-img: img/post-bg-desk.jpg
-email: heyunfan55@outlook.com
+email: kyriehe@outlook.com
 description: "Every failure is leading towards success."
 keyword: "HY, HeYun Blog, 贺云的博客, KyrieHee, 贺云, Machine Learning, Deep Learning, Deep Reinforcement Learning"
 url: "http://kyriehee.github.io"          # your host, for absolute URL
@@ -12,14 +12,14 @@ github_repo: "https://github.com/kyriehee/kyriehee.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "What is rational is actual and what is actual is rational."
+sidebar-about-description: "Keep simple things simple."
 sidebar-avatar: /img/about-HY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     KyrieHe
+weibo_username:     Hhhy云帆
 zhihu_username:     kyriehee
 github_username:    kyriehee
 #facebook_username:  baiying.qiu.7
