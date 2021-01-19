@@ -1,6 +1,7 @@
 # Site settings
 title: HeYun's Blog
-SEOTitle: 贺云的博客 | HeYun's Blog
+SEOTitle: HeYun's Blog
+# SEOTitle: 贺云的博客 | HeYun's Blog
 header-img: img/post-bg-desk.jpg
 email: heyunfan55@outlook.com
 description: "Every failure is leading towards success."
